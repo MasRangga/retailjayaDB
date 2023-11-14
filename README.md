@@ -1,2 +1,2 @@
 # retailjayaDB
-![Entity Relational Diagram Online Retail Database](retail.png)
+![Entity Relational Diagram Online Retail Database](img/ERD-retailjaya.png)
